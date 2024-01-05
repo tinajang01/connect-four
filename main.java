@@ -439,5 +439,3 @@ public class Connect4 {
 	} // end method playAgain
 	
 } // end class Connect4
-
-
